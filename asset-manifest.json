@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboFriend/static/css/main.a937e291.chunk.css",
+    "main.js": "/roboFriend/static/js/main.b7e292e0.chunk.js",
+    "main.js.map": "/roboFriend/static/js/main.b7e292e0.chunk.js.map",
+    "runtime-main.js": "/roboFriend/static/js/runtime-main.933f1051.js",
+    "runtime-main.js.map": "/roboFriend/static/js/runtime-main.933f1051.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/roboFriend/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7ec5fd90.chunk.js": "/roboFriend/static/js/2.7ec5fd90.chunk.js",
+    "static/js/2.7ec5fd90.chunk.js.map": "/roboFriend/static/js/2.7ec5fd90.chunk.js.map",
+    "index.html": "/roboFriend/index.html",
+    "precache-manifest.bc10653163e184b19c876e732f720d6c.js": "/roboFriend/precache-manifest.bc10653163e184b19c876e732f720d6c.js",
+    "service-worker.js": "/roboFriend/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/roboFriend/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.a937e291.chunk.css.map": "/roboFriend/static/css/main.a937e291.chunk.css.map",
+    "static/js/2.7ec5fd90.chunk.js.LICENSE.txt": "/roboFriend/static/js/2.7ec5fd90.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboFriend/static/media/Resident Evil Large.76228bb6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.933f1051.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7ec5fd90.chunk.js",
+    "static/css/main.a937e291.chunk.css",
+    "static/js/main.b7e292e0.chunk.js"
+  ]
+}
