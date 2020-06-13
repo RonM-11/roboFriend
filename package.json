@@ -1,6 +1,5 @@
-{
+https://github.com/RonM-11/roboFriend.git{
   "name": "robofriends",
-  "homepage": "https://RonM-11.github.io/roboFriend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,8 +14,6 @@
     "typescript": "^3.9.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
