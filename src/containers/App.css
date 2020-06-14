@@ -1,12 +1,12 @@
 @font-face {
-	font-family: 'Resident Evil';
+	font-family: 'Lobster', cursive;
 	font-style: normal;
 	font-weight: normal;
-	src: local('Resident Evil'), url('Resident Evil Large.woff') format('woff');
-	}	
+	}
+
 
 h1 {
-	font-family: 'Resident Evil', sans-serif;
+	font-family: 'Lobster', cursive;
 	font-weight: 10em;
-	color: rgb(24, 82, 95);
+	color: rgb(255, 255, 255);
 }
